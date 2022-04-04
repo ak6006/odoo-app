@@ -1,0 +1,56 @@
+[
+ {
+  "id": 9223372036854775807,	 
+  "Code": "CR0006",
+  "Employee": "Administrator",
+  "Begin Date": "2022-03-28 04:21:16",
+  "End Date": "2022-03-28 04:21:18",
+  "latitude": "29.9790517",
+  "longitude": "30.9281067"
+ },
+ {
+	  "id": 1,	
+  "Code": "CR0007",
+  "Employee": "Administrator",
+  "Begin Date": "2022-03-28 04:21:19",
+  "End Date": "2022-03-28 04:22:39",
+  "latitude": "29.9789456",
+  "longitude": "30.9280666"
+ },
+ {
+	  "id": 1,	
+  "Code": "CR0008",
+  "Employee": "Administrator",
+  "Begin Date": "2022-03-28 04:22:40",
+  "End Date": "2022-03-28 04:32:30",
+  "latitude": "29.9790137",
+  "longitude": "30.9281593"
+ },
+ {
+	  "id": 1243423423423,	
+  "Code": "CR0009",
+  "Employee": "Administrator",
+  "Begin Date": "2022-03-28 04:33:10",
+  "End Date": "2022-03-28 04:33:21",
+  "latitude": "29.9790567",
+  "longitude": "30.9281967"
+ },
+ {
+	  "id": 1,	
+  "Code": "CR0010",
+  "Employee": "Administrator",
+  "Begin Date": "2022-03-28 04:33:21",
+  "End Date": "2022-03-28 04:33:53",
+  "latitude": "29.9790243",
+  "longitude": "30.9280501"
+ },
+ {
+	  "id": 1,	
+  "Code": "CR0011",
+  "Employee": "Administrator",
+  "Begin Date": "2022-03-28 04:33:54",
+  "End Date": "2022-03-28 04:34:00",
+  "latitude": "29.9790022",
+  "longitude": "30.9279492"
+ }
+]
